@@ -1,0 +1,33 @@
+.form-detail-container {
+  padding-top: 32px;
+  width: 600px;
+  .submit-form-btn {
+    margin-top: 16px;
+    width: 100%;
+  }
+  .calender-icon {
+    padding-right: 4px;
+  }
+  .submit-form-btn {
+    background-color: blue;
+    color: white;
+    margin-top: 24px;
+    padding: 8px;
+    border: 0px;
+    border-radius: 5px;
+  }
+  .description-text-area {
+    padding-bottom: 16px;
+  }
+  .divider {
+    border-bottom: 1px solid black;
+    margin-top: 16px;
+  }
+  .form-group{
+    margin-top: 16px;
+  }
+}
+
+.success-icon{
+  padding-right: 4px;
+}

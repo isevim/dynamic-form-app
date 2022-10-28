@@ -1,0 +1,21 @@
+.main-form-search-add {
+  .main-form-search {
+    padding-left: 0px !important;
+  }
+  .main-form-add {
+    padding-right: 0px !important;
+    justify-content: flex-end;
+    display: flex;
+    .add-btn{
+      .add-btn-icon{
+        padding-right: 4px;
+      }
+    }
+  }
+}
+
+.form-header {
+  display: flex;
+  justify-content: center;
+  padding: 24px;
+}
